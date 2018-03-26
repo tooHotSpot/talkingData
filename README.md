@@ -12,3 +12,4 @@ DatasetsPickles.py - создает в папке myPickler файлы
 
 train.txt содержит 184903891 строк
 train_sample.txt содержит 100001 строк
+merged содержит 185003891 строк
