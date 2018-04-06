@@ -10,6 +10,7 @@ DatasetsPickles.py - создает в папке myPickler файлы
 Также в папке myPickler сохранен protocol.txt - текстовый файл вывода в консоль работы DatasetsPickles.py. Представляет собой список типа ключ-значение из channelsDict.train.txt
 
 
-train.txt содержит 184903891 строк
-train_sample.txt содержит 100001 строк
-merged содержит 185003891 строк
+train.txt содержит 184.903.891 строк
+train_sample.txt содержит 100.001 строк
+merged содержит 185.003.891 строк
+test - 18.790.469 строк
